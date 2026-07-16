@@ -1,1 +1,2 @@
 Solve Boundary Value Problem
+using Galerkin method
